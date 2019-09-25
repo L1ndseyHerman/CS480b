@@ -1,1 +1,3 @@
-
+- One point that I tend to do but shouldn't is prioritizing making variable names short rather than pronouncable. 
+- One point that surprised me is that they prioritize classes and interfaces over conditionals, because, while scrolling through a pile of if-statements sounds annoying, so does having 20+ tabs of classes and interfaces with barely more than a constructor/single interface method in each.
+- I disagree that the Singleton Pattern is always bad, because Dr. Palmer spent multiple classes and a homework assignment teaching us how to use it, so he must have a reason!
