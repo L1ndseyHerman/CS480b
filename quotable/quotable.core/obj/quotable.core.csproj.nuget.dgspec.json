@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lherman21\\source\\repos\\CS480b\\quotable\\quotable.core\\quotable.core.csproj": {}
+    "C:\\Users\\lherman21\\Source\\Repos\\CS480b\\quotable\\quotable.core\\quotable.core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lherman21\\source\\repos\\CS480b\\quotable\\quotable.core\\quotable.core.csproj": {
+    "C:\\Users\\lherman21\\Source\\Repos\\CS480b\\quotable\\quotable.core\\quotable.core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lherman21\\source\\repos\\CS480b\\quotable\\quotable.core\\quotable.core.csproj",
+        "projectUniqueName": "C:\\Users\\lherman21\\Source\\Repos\\CS480b\\quotable\\quotable.core\\quotable.core.csproj",
         "projectName": "quotable.core",
-        "projectPath": "C:\\Users\\lherman21\\source\\repos\\CS480b\\quotable\\quotable.core\\quotable.core.csproj",
+        "projectPath": "C:\\Users\\lherman21\\Source\\Repos\\CS480b\\quotable\\quotable.core\\quotable.core.csproj",
         "packagesPath": "C:\\Users\\lherman21\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lherman21\\source\\repos\\CS480b\\quotable\\quotable.core\\obj\\",
+        "outputPath": "C:\\Users\\lherman21\\Source\\Repos\\CS480b\\quotable\\quotable.core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
